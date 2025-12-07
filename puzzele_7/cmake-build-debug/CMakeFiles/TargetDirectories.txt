@@ -1,0 +1,3 @@
+C:/Users/Iviwe Gagayi/Documents/AdventOfCode/puzzele_7/cmake-build-debug/CMakeFiles/puzzele_7.dir
+C:/Users/Iviwe Gagayi/Documents/AdventOfCode/puzzele_7/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Iviwe Gagayi/Documents/AdventOfCode/puzzele_7/cmake-build-debug/CMakeFiles/rebuild_cache.dir
